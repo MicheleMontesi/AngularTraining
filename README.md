@@ -6,11 +6,11 @@ This repository is my personal workspace for learning Angular by following the o
 
 I am following the official Angular guide to learn Angular. You can access the guide by clicking on the links below:
 
-[x] Step 1: [Getting Started with Angular](https://angular.io/start)
-[] Step 2: [Adding Navigation](https://angular.io/start/start-routing)
-[] Step 3: [Managing Data](https://angular.io/start/start-data)
-[] Step 4: [Using Forms For User Input](https://angular.io/start/start-forms)
-[] Step 5: [Deployment](https://angular.io/start/start-deployment)
+1. [x] Step 1: [Getting Started with Angular](https://angular.io/start)
+2. [ ] Step 2: [Adding Navigation](https://angular.io/start/start-routing)
+3. [ ] Step 3: [Managing Data](https://angular.io/start/start-data)
+4. [ ] Step 4: [Using Forms For User Input](https://angular.io/start/start-forms)
+5. [ ] Step 5: [Deployment](https://angular.io/start/start-deployment)
 
 ## My Learning Journey
 
